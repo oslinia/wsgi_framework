@@ -1,3 +1,1 @@
-#### wsgi_framework
-
-Фреймворк wsgi.
+#### Фреймворк wsgi.
